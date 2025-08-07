@@ -49,17 +49,7 @@ Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flopchamp&show_icons=true&theme=gradient&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flopchamp&layout=compact&theme=gradient&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flopchamp&theme=gradient&hide_border=true)
-  
-</div>
 
 ## 🏆 Key Achievements
 
@@ -70,42 +60,12 @@ Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing
 🎨 **Full-Stack Expertise** - End-to-end development from frontend to backend  
 🔧 **Modern Technologies** - Expert in Python, JavaScript, TypeScript, React  
 
----
-
-## 📈 Current Focus
-- 📊 **Advanced Trading Systems** - Enhancing algorithmic trading strategies
-- 🌐 **Full-Stack Innovation** - Building scalable web applications
-- 🧠 **Continuous Learning** - Exploring new frameworks and technologies
-
----
-
-## 📱 Let's Connect!
-
-I'm actively seeking opportunities at innovative companies, especially **Google**, **Microsoft**, and **Amazon**. Let's discuss how I can contribute to your team's success!
-
-### **Contact Information**
-- 📧 **Email:** [alooharrison7@gmail.com](mailto:alooharrison7@gmail.com)
-- 📱 **Phone:** +257697193322
-- 💼 **LinkedIn:** [harrisonaloo](https://linkedin.com/in/harrisonaloo)
-- 🐙 **GitHub:** [@Flopchamp](https://github.com/Flopchamp)
 
 ### **Availability**
 - ✅ **Immediate Start Available**
 - 🌍 **Remote/Hybrid Preferred**
 - 🚀 **Open to Relocation**
 - ⚡ **Quick Response** - I respond within 24 hours
-
----
-
-## 🎨 Fun Facts
-
-- 🔥 **Most Recent Commit:** 12 hours ago (I'm always coding!)
-- 🏦 **FinTech Passionate:** Love combining finance with technology
-- 🎯 **Google Ready:** Optimized for FAANG technical interviews
-- 🌟 **Open Source:** Active contributor to community projects
-- 📚 **Continuous Learner:** Always exploring new technologies
-
----
 
 <div align="center">
   
@@ -115,10 +75,11 @@ I'm actively seeking opportunities at innovative companies, especially **Google*
   [![Email Me](https://img.shields.io/badge/Email%20Me-alooharrison7%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alooharrison7@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harrisonaloo)
   
-  ---
-  
-  ⭐ **If you find my work interesting, please consider giving my repositories a star!** ⭐
-  
-  *Built with ❤️ by Harrison Aloo*
+  ### **Contact Information**
+- 📧 **Email:** [alooharrison7@gmail.com](mailto:alooharrison7@gmail.com)
+- 📱 **Phone:** +257697193322
+- 💼 **LinkedIn:** [harrisonaloo](https://linkedin.com/in/harrisonaloo)
+- 🐙 **GitHub:** [@Flopchamp](https://github.com/Flopchamp)
+
   
 </div>
