@@ -1,4 +1,4 @@
-# 🚀Aloo Harrison Onyango  - Software Engineer
+# Aloo Harrison Onyango  - Software Engineer
 
 <div align="center">
   
@@ -11,19 +11,13 @@
   
 </div>
 
----
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. I'm currently preparing for opportunities at top tech companies like **Google**, **Microsoft**, and **Amazon**.
 
-🎯 **What makes me unique?**
-- 📈 **Algorithmic Trading Expert** - Built professional-grade trading systems
-- 💻 **Full-Stack Developer** - 12+ repositories with diverse tech stacks
-- 🧠 **Google Interview Ready** - Optimized for technical interviews
-- 🔥 **Active Developer** - Last commit: 12 hours ago
+ **What makes me unique?** As an **Algorithmic Trading Expert**, I have built professional-grade trading systems that demonstrate my deep understanding of financial markets and technical implementation. Being a **Full-Stack Developer** with 12+ repositories showcasing diverse tech stacks, I bring comprehensive end-to-end development capabilities to every project. I'm **Google Interview Ready**, having optimized my skills in data structures, algorithms, and system design for technical interviews at top-tier companies. As an **Active Developer** with my last commit just 12 hours ago, I maintain consistent momentum in coding and continuous learning.
 
----
 
 ## 🛠️ Tech Stack
 
