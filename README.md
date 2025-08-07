@@ -11,16 +11,13 @@
   
 </div>
 
-
 ##  About Me
 
-Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. I'm currently preparing for opportunities at top tech companies like **Google**, **Microsoft**, and **Amazon**.
+Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. Currently preparing for opportunities at **Google**, **Microsoft**, and **Amazon**.
 
- **What makes me unique?** As an **Algorithmic Trading Expert**, I have built professional-grade trading systems that demonstrate my deep understanding of financial markets and technical implementation. Being a **Full-Stack Developer** with 12+ repositories showcasing diverse tech stacks, I bring comprehensive end-to-end development capabilities to every project. I'm **Google Interview Ready**, having optimized my skills in data structures, algorithms, and system design for technical interviews at top-tier companies. As an **Active Developer** with my last commit just 12 hours ago, I maintain consistent momentum in coding and continuous learning.
-
+**What makes me unique?** I'm an **Algorithmic Trading Expert** with professional-grade trading systems, a **Full-Stack Developer** with 12+ diverse repositories, **Google Interview Ready** with optimized technical skills, and an **Active Developer** with my last commit just 12 hours ago.
 
 ## 🛠️ Tech Stack
-
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
