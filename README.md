@@ -48,41 +48,6 @@ Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🚀 Featured Projects
-
-### 📈 [ENIGMA APEX Professional Algo Trader](https://github.com/Flopchamp/ENIGMA_APEX_PROFESSIONAL_ALGO_TRADER)
-**Professional-grade algorithmic trading system**
-- **Tech:** Python, Financial APIs, Data Analysis
-- **Features:** Advanced trading strategies, real-time market analysis, risk management
-- **Status:** 🟢 Updated 12 hours ago
-
-### 🔍 [Harmonic Pattern Scanner](https://github.com/Flopchamp/harmonics-pattern-scanner)
-**Advanced pattern recognition for financial markets**
-- **Tech:** JavaScript, Pattern Recognition, Financial Mathematics
-- **Features:** Real-time pattern detection, multiple pattern types, performance analytics
-- **Status:** 🟡 Updated 2 weeks ago
-
-### 🎬 [MovieFlex](https://github.com/Flopchamp/MovieFlex)
-**Modern streaming application with TypeScript**
-- **Tech:** TypeScript, React, Modern Web APIs
-- **Features:** Responsive design, advanced search, user preferences
-- **Status:** 🔵 TypeScript Project
-
-### 🎣 [FishCrewConnect](https://github.com/Flopchamp/FishCrewConnect)
-**Social platform for fishing community**
-- **Tech:** JavaScript, Full-Stack Development
-- **Features:** User profiles, crew matching, trip planning, messaging
-- **Status:** 🟢 Updated 3 weeks ago
-
-### 🛒 [ProductStore](https://github.com/Flopchamp/ProductStore)
-**Complete e-commerce solution**
-- **Tech:** JavaScript, E-commerce, Full-Stack
-- **Features:** Product management, shopping cart, user authentication
-- **Backend:** [Crud-App-Backend](https://github.com/Flopchamp/Crud-App-Backend)
-
----
 
 ## 📊 GitHub Stats
 
