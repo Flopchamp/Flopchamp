@@ -1,104 +1,159 @@
-# Harrison Aloo - Software Engineer | FinTech Specialist 🚀
+# 🚀 Harrison Aloo - Software Engineer | FinTech Specialist
 
 <div align="center">
   
+  [![GitHub followers](https://img.shields.io/github/followers/Flopchamp?style=social)](https://github.com/Flopchamp)
+  [![GitHub stars](https://img.shields.io/github/stars/Flopchamp?style=social)](https://github.com/Flopchamp)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-harrisonaloo-blue)](https://linkedin.com/in/harrisonaloo)
   [![Email](https://img.shields.io/badge/Email-alooharrison7%40gmail.com-red)](mailto:alooharrison7@gmail.com)
-  [![GitHub followers](https://img.shields.io/github/followers/Flopchamp?style=social)](https://github.com/Flopchamp)
   
-  **Google Interview Ready** • **12+ Repositories** • **FinTech Expert** • **+257697193322**
+  **Google Interview Ready** | **12+ Active Repositories** | **FinTech Expert** | **Full-Stack Developer**
   
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-**Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. Currently preparing for opportunities at **Google**, **Microsoft**, and **Amazon**.
+Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. I'm currently preparing for opportunities at top tech companies like **Google**, **Microsoft**, and **Amazon**.
 
-🎯 **Key Strengths:**
-- 📈 **Algorithmic Trading Expert** - Professional-grade trading systems
-- 💻 **Full-Stack Developer** - 12+ diverse repositories  
-- 🧠 **Interview Ready** - Data structures, algorithms, system design
+🎯 **What makes me unique?**
+- 📈 **Algorithmic Trading Expert** - Built professional-grade trading systems
+- 💻 **Full-Stack Developer** - 12+ repositories with diverse tech stacks
+- 🧠 **Google Interview Ready** - Optimized for technical interviews
 - 🔥 **Active Developer** - Last commit: 12 hours ago
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • JavaScript • TypeScript • HTML5 • CSS3  
-**Frameworks:** React • Node.js  
-**FinTech:** Algorithmic Trading • Pattern Recognition • Market Analysis • Risk Management  
-**Tools:** Git • GitHub • VS Code • Docker • Linux
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Financial Technology**
+- **Algorithmic Trading** | **Pattern Recognition** | **Market Analysis**
+- **Risk Management** | **Real-time Data Processing** | **Portfolio Optimization**
+- **Financial APIs** | **Backtesting Systems** | **Trading Automation**
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## 🚀 Featured Projects
 
 ### 📈 [ENIGMA APEX Professional Algo Trader](https://github.com/Flopchamp/ENIGMA_APEX_PROFESSIONAL_ALGO_TRADER)
-Professional trading system with advanced strategies and real-time analysis  
-**Python • Financial APIs • Updated 12 hours ago**
+**Professional-grade algorithmic trading system**
+- **Tech:** Python, Financial APIs, Data Analysis
+- **Features:** Advanced trading strategies, real-time market analysis, risk management
+- **Status:** 🟢 Updated 12 hours ago
 
 ### 🔍 [Harmonic Pattern Scanner](https://github.com/Flopchamp/harmonics-pattern-scanner)
-Advanced pattern recognition for financial markets  
-**JavaScript • Pattern Recognition • Real-time detection**
+**Advanced pattern recognition for financial markets**
+- **Tech:** JavaScript, Pattern Recognition, Financial Mathematics
+- **Features:** Real-time pattern detection, multiple pattern types, performance analytics
+- **Status:** 🟡 Updated 2 weeks ago
 
 ### 🎬 [MovieFlex](https://github.com/Flopchamp/MovieFlex)
-Modern streaming application  
-**TypeScript • React • Responsive design**
+**Modern streaming application with TypeScript**
+- **Tech:** TypeScript, React, Modern Web APIs
+- **Features:** Responsive design, advanced search, user preferences
+- **Status:** 🔵 TypeScript Project
 
 ### 🎣 [FishCrewConnect](https://github.com/Flopchamp/FishCrewConnect)
-Social platform for fishing community  
-**JavaScript • Full-Stack • User profiles & messaging**
+**Social platform for fishing community**
+- **Tech:** JavaScript, Full-Stack Development
+- **Features:** User profiles, crew matching, trip planning, messaging
+- **Status:** 🟢 Updated 3 weeks ago
 
-### 🛒 [ProductStore + Backend](https://github.com/Flopchamp/ProductStore)
-Complete e-commerce solution with [CRUD backend](https://github.com/Flopchamp/Crud-App-Backend)  
-**JavaScript • E-commerce • Authentication**
+### 🛒 [ProductStore](https://github.com/Flopchamp/ProductStore)
+**Complete e-commerce solution**
+- **Tech:** JavaScript, E-commerce, Full-Stack
+- **Features:** Product management, shopping cart, user authentication
+- **Backend:** [Crud-App-Backend](https://github.com/Flopchamp/Crud-App-Backend)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flopchamp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flopchamp&layout=compact&theme=tokyonight&hide_border=true)
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flopchamp&show_icons=true&theme=gradient&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flopchamp&layout=compact&theme=gradient&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flopchamp&theme=gradient&hide_border=true)
+  
 </div>
-
-## 💼 Experience
-
-**Senior Software Developer** | Tech Innovation Labs *(2022-Present)*
-- Led scalable applications serving 10,000+ users
-- **40% performance improvement** through optimization  
-- **60% deployment efficiency** via CI/CD implementation
-- Mentored 4 developers, conducted code reviews
-
-**Full-Stack Developer** | Digital Solutions Inc. *(2021-2022)*  
-**Junior Software Engineer** | StartupTech *(2020-2021)*
-
-## 🎯 Interview Readiness
-
-**Technical:** Data Structures & Algorithms • System Design • Clean Code • Problem Solving  
-**Behavioral:** Leadership • Innovation • Collaboration • Growth Mindset
 
 ## 🏆 Key Achievements
 
-✅ **12+ Active Repositories** - Diverse full-stack portfolio  
-✅ **Professional Trading Systems** - ENIGMA APEX & pattern tools  
-✅ **Performance Expert** - 40% application improvements  
-✅ **Team Leadership** - Managed teams & mentored developers  
-✅ **Modern Tech Stack** - Python, JavaScript, TypeScript, React
+🎯 **12+ Active GitHub Repositories** - Diverse portfolio showcasing full-stack skills  
+📈 **Professional Trading Systems** - Built ENIGMA APEX and pattern recognition tools  
+🚀 **Performance Optimization** - Improved application performance by 40%  
+👥 **Team Leadership** - Successfully led development teams and mentored developers  
+🎨 **Full-Stack Expertise** - End-to-end development from frontend to backend  
+🔧 **Modern Technologies** - Expert in Python, JavaScript, TypeScript, React  
 
-## 📱 Contact & Availability
+---
 
-**Ready for immediate start** • **Remote/Hybrid preferred** • **Open to relocation**
+## 📈 Current Focus
+- 📊 **Advanced Trading Systems** - Enhancing algorithmic trading strategies
+- 🌐 **Full-Stack Innovation** - Building scalable web applications
+- 🧠 **Continuous Learning** - Exploring new frameworks and technologies
 
-📧 **Email:** [alooharrison7@gmail.com](mailto:alooharrison7@gmail.com)  
-📱 **Phone:** +257697193322  
-💼 **LinkedIn:** [harrisonaloo](https://linkedin.com/in/harrisonaloo)  
-🐙 **GitHub:** [@Flopchamp](https://github.com/Flopchamp)
+---
+
+## 📱 Let's Connect!
+
+I'm actively seeking opportunities at innovative companies, especially **Google**, **Microsoft**, and **Amazon**. Let's discuss how I can contribute to your team's success!
+
+### **Contact Information**
+- 📧 **Email:** [alooharrison7@gmail.com](mailto:alooharrison7@gmail.com)
+- 📱 **Phone:** +257697193322
+- 💼 **LinkedIn:** [harrisonaloo](https://linkedin.com/in/harrisonaloo)
+- 🐙 **GitHub:** [@Flopchamp](https://github.com/Flopchamp)
+
+### **Availability**
+- ✅ **Immediate Start Available**
+- 🌍 **Remote/Hybrid Preferred**
+- 🚀 **Open to Relocation**
+- ⚡ **Quick Response** - I respond within 24 hours
+
+---
+
+## 🎨 Fun Facts
+
+- 🔥 **Most Recent Commit:** 12 hours ago (I'm always coding!)
+- 🏦 **FinTech Passionate:** Love combining finance with technology
+- 🎯 **Google Ready:** Optimized for FAANG technical interviews
+- 🌟 **Open Source:** Active contributor to community projects
+- 📚 **Continuous Learner:** Always exploring new technologies
 
 ---
 
 <div align="center">
   
-**🚀 Actively seeking opportunities at Google, Microsoft & Amazon**  
-*⚡ Quick response - 24 hours • Last commit: 12 hours ago*
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:alooharrison7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harrisonaloo)
-
+  ### 🚀 Ready to innovate together?
+  **Let's build something amazing!**
+  
+  [![Email Me](https://img.shields.io/badge/Email%20Me-alooharrison7%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alooharrison7@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harrisonaloo)
+  
+  ---
+  
+  ⭐ **If you find my work interesting, please consider giving my repositories a star!** ⭐
+  
+  *Built with ❤️ by Harrison Aloo*
+  
 </div>
