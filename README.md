@@ -13,9 +13,7 @@
 
 ##  About Me
 
-Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. Currently preparing for opportunities at **Google**, **Microsoft**, and **Amazon**.
-
-**What makes me unique?** I'm an **Algorithmic Trading Expert** with professional-grade trading systems, a **Full-Stack Developer** with 12+ diverse repositories, **Google Interview Ready** with optimized technical skills, and an **Active Developer** with my last commit just 12 hours ago.
+Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. 
 
 ## 🛠️ Tech Stack
 
