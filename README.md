@@ -10,7 +10,6 @@
   **12+ Active Repositories** | **Full-Stack Developer**
 
 </div>
-
 ##  About Me
 
 Hi there! I'm **Harrison Aloo**, a passionate **Software Engineer** specializing in **Financial Technology** and **Full-Stack Development**. 
