@@ -21,17 +21,7 @@
 Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep expertise in **Financial Technology** and **Algorithmic Trading Systems**. I specialize in creating production-grade trading platforms and full-stack web applications.
 
 
-## � GitHub Analytics
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flopchamp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flopchamp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flopchamp&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
-  
-</div>
 
 ## �🛠️ Tech Stack & Expertise
 
@@ -75,6 +65,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 
 </div>
 ### **Development Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -92,19 +83,6 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 -  **Data Structures & Algorithms** - LeetCode preparation for tech interviews
 -  **Cybersecurity** - Security best practices in financial applications
 
-## 🌟 Professional Availability
-
-<div align="center">
-
-### 🎯 **Ready for Your Next Challenge!**
-
-</div>
-
-|  **Availability** |  **Preferences** |  
-|:---|:---|:---|
-|  **Immediate Start** |  **Remote/Hybrid Preferred** | 
-|  **24h Response Time** |  **Open to Relocation** |  **FinTech Startups** |
-| **Interview Ready** |  **Full-Stack Roles** |  **Tech Innovators** |
 
 ## 📞 Let's Connect & Build Something Amazing!
 
