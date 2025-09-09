@@ -8,7 +8,7 @@
   [![Email](https://img.shields.io/badge/Email-alooharrison7%40gmail.com-red)](mailto:alooharrison7@gmail.com)
   
   **12+ Active Repositories** | **Full-Stack Developer**
-  
+
 </div>
 
 ##  About Me
