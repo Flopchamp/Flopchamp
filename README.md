@@ -20,11 +20,6 @@
 
 Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep expertise in **Financial Technology** and **Algorithmic Trading Systems**. I specialize in creating production-grade trading platforms and full-stack web applications.
 
-- 🔭 Currently working on **ENIGMA APEX Professional Trading Platform**
-- 🌱 Learning advanced **System Design** and **Cloud Architecture**
-- 💼 Open to opportunities at **FAANG companies** and **FinTech startups**
-- 🎯 Goal: Building scalable financial technology solutions
-- ⚡ Fun fact: I can analyze market patterns and build web apps with equal passion! 
 
 ## � GitHub Analytics
 
@@ -36,18 +31,6 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flopchamp&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
   
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![ENIGMA APEX](https://github-readme-stats.vercel.app/api/pin/?username=Flopchamp&repo=ENIGMA_APEX_PROFESSIONAL_ALGO_TRADER&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)](https://github.com/Flopchamp/ENIGMA_APEX_PROFESSIONAL_ALGO_TRADER)
-[![Harmonic Patterns](https://github-readme-stats.vercel.app/api/pin/?username=Flopchamp&repo=harmonics-pattern-scanner&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)](https://github.com/Flopchamp/harmonics-pattern-scanner)
-
-[![MovieFlex](https://github-readme-stats.vercel.app/api/pin/?username=Flopchamp&repo=MovieFlex&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)](https://github.com/Flopchamp/MovieFlex)
-[![FishCrewConnect](https://github-readme-stats.vercel.app/api/pin/?username=Flopchamp&repo=FishCrewConnect&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)](https://github.com/Flopchamp/FishCrewConnect)
-
 </div>
 
 ## �🛠️ Tech Stack & Expertise
@@ -80,7 +63,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 💰 **Financial Technology Specialization**
+###  **Financial Technology Specialization**
 <div align="center">
 
 ![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-Expert-FF6B6B?style=for-the-badge&labelColor=2C3E50)
@@ -91,16 +74,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ![Financial APIs](https://img.shields.io/badge/Financial%20APIs-Integration-FF9FF3?style=for-the-badge&labelColor=2C3E50)
 
 </div>
-
-**Specialized Areas:**
-- 📈 **Professional Trading Systems** - ENIGMA APEX platform with real-time execution
-- 🎯 **Harmonic Pattern Detection** - 85%+ accuracy in market pattern recognition
-- 💹 **Cryptocurrency Trading** - Automated bots and market analysis tools
-- 📊 **Financial Data Processing** - Real-time analysis of thousands of data points
-- 🔒 **Risk Management** - Advanced portfolio optimization and automated strategies
-- 📱 **TradingView Integration** - Custom PineScript indicators and strategies
-
-### 🎯 **Development Tools & Platforms**
+### **Development Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -110,28 +84,13 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 📈 **Current Focus & Learning**
-- 🔍 **System Design** - Scalable architecture patterns for FAANG interviews
-- ☁️ **Cloud Platforms** - AWS, Google Cloud Platform, Azure fundamentals
-- 🏗️ **Microservices** - Building distributed systems and APIs
-- 🤖 **AI Integration** - Machine learning applications in trading systems
-- 📚 **Data Structures & Algorithms** - LeetCode preparation for tech interviews
-- 🔐 **Cybersecurity** - Security best practices in financial applications
-
-## 🏆 Achievements & Metrics
-
-<div align="center">
-
-| 🎯 **Category** | 📊 **Achievement** | 🎉 **Status** |
-|:---|:---|:---|
-| 📚 **Education** | BSc Software Engineering (CGPA: 3.256/4.0) | ✅ **Graduated 2025** |
-| 💼 **Repositories** | 12+ Active Production Projects | 🔥 **Growing** |
-| 📈 **Trading Accuracy** | 85%+ Pattern Recognition | ⭐ **Excellent** |
-| ⚡ **Response Time** | 24 Hours Professional Inquiries | 🚀 **Guaranteed** |
-| 🌟 **Specialization** | FinTech + Full-Stack Development | 🎯 **Unique** |
-| 💻 **Last Commit** | 12 Hours Ago | 🟢 **Very Active** |
-
-</div>
+###  **Current Focus & Learning**
+-  **System Design** - Scalable architecture patterns for FAANG interviews
+-  **Cloud Platforms** - AWS, Google Cloud Platform, Azure fundamentals
+-  **Microservices** - Building distributed systems and APIs
+-  **AI Integration** - Machine learning applications in trading systems
+-  **Data Structures & Algorithms** - LeetCode preparation for tech interviews
+-  **Cybersecurity** - Security best practices in financial applications
 
 ## 🌟 Professional Availability
 
@@ -141,11 +100,11 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 
 </div>
 
-| 🚀 **Availability** | 📍 **Preferences** | 🎯 **Target Companies** |
+|  **Availability** |  **Preferences** |  
 |:---|:---|:---|
-| ✅ **Immediate Start** | 🌍 **Remote/Hybrid Preferred** | 🔥 **Google, Microsoft, Amazon** |
-| ⚡ **24h Response Time** | 🚀 **Open to Relocation** | 💰 **FinTech Startups** |
-| 💼 **Interview Ready** | 🎯 **Full-Stack Roles** | 🏢 **Tech Innovators** |
+|  **Immediate Start** |  **Remote/Hybrid Preferred** | 
+|  **24h Response Time** |  **Open to Relocation** |  **FinTech Startups** |
+| **Interview Ready** |  **Full-Stack Roles** |  **Tech Innovators** |
 
 ## 📞 Let's Connect & Build Something Amazing!
 
@@ -154,7 +113,6 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ### 🤝 **Ready to innovate together?**
 
 [![Email](https://img.shields.io/badge/📧%20Email-alooharrison7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alooharrison7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Harrison%20Aloo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harrisonaloo)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge)](https://your-portfolio-link.com)
 [![Phone](https://img.shields.io/badge/📱%20Phone-%2B254%20769%20719%20322-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254769719322)
 
@@ -162,12 +120,4 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 
 ---
 
-<div align="center">
 
-### 💡 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
-
-**⭐ If you find my work interesting, consider starring my repositories!**
-
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon!-FF6B6B?style=for-the-badge)
-
-</div>
