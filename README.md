@@ -1,4 +1,4 @@
-# Harrison Aloo 👨‍💻
+# Harrison Onyango Aloo 
 ### Software Engineer | FinTech Specialist | Algorithmic Trading Expert
 
 <div align="center">
@@ -14,7 +14,7 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 
 > **Building the future of financial technology, one algorithm at a time.**
 
@@ -23,7 +23,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 
 
 
-## �🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,6 +65,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ![Financial APIs](https://img.shields.io/badge/Financial%20APIs-Integration-FF9FF3?style=for-the-badge&labelColor=2C3E50)
 
 </div>
+
 ###  **Development Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,7 +86,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 -  **Cybersecurity** - Security best practices in financial applications
 
 
-## 📞 Let's Connect & Build Something Amazing!
+##  Let's Connect & Build Something Amazing!
 
 <div align="center">
 
