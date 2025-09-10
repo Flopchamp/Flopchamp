@@ -7,7 +7,6 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Flopchamp?style=social)](https://github.com/Flopchamp)
   [![GitHub stars](https://img.shields.io/github/stars/Flopchamp?style=social)](https://github.com/Flopchamp)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-harrisonaloo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harrisonaloo)
   [![Email](https://img.shields.io/badge/Email-alooharrison7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alooharrison7@gmail.com)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Flopchamp&color=brightgreen&style=for-the-badge)
@@ -93,7 +92,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ### 🤝 **Ready to innovate together?**
 
 [![Email](https://img.shields.io/badge/📧%20Email-alooharrison7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alooharrison7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge)](https://flopchamp-portfolio-app-mz5env.streamlit.app/)
 [![Phone](https://img.shields.io/badge/📱%20Phone-%2B254%20769%20719%20322-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254769719322)
 
 </div>
