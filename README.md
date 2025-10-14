@@ -92,7 +92,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ### 🤝 **Ready to innovate together?**
 
 [![Email](https://img.shields.io/badge/📧%20Email-alooharrison7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alooharrison7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge)](https://flopchamp-portfolio-app-mz5env.streamlit.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge)](https://harrisononyangoaloo.vercel.app/)
 [![Phone](https://img.shields.io/badge/📱%20Phone-%2B254%20769%20719%20322-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254769719322)
 
 </div>
