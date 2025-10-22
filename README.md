@@ -34,6 +34,7 @@ Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep e
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PineScript](https://img.shields.io/badge/PineScript-2962FF?style=for-the-badge&logo=tradingview&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![EasyLanguage](https://img.shields.io/badge/EasyLanguage-0072C6?style=for-the-badge&logo=tradestation&logoColor=white)](https://www.tradestation.com/insights/easylanguage/)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frontend & Mobile**
