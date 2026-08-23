@@ -1,103 +1,66 @@
-# Harrison Onyango Aloo 
-### Software Engineer | FinTech Specialist | Algorithmic Trading Expert
+# Harrison Onyango Aloo
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Algorithmic+Trading+Expert;Financial+Technology+Specialist;Open+Source+Contributor)](https://git.io/typing-svg)
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Flopchamp?style=social)](https://github.com/Flopchamp)
-  [![GitHub stars](https://img.shields.io/github/stars/Flopchamp?style=social)](https://github.com/Flopchamp)
-  [![Email](https://img.shields.io/badge/Email-alooharrison7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alooharrison7@gmail.com)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Flopchamp&color=brightgreen&style=for-the-badge)
-  
-</div>
+**Backend engineer in Nairobi, Kenya. I build systems that move money.**
 
-##  About Me
+M-Pesa payment integrations, billing engines, and multi-tenant backends for African
+businesses — with the callback verification, idempotency and reconciliation that
+payment flows actually require.
 
-> **Building the future of financial technology, one algorithm at a time.**
-
-Hey there! I'm **Harrison Aloo**, a passionate **Software Engineer** with deep expertise in **Financial Technology** and **Algorithmic Trading Systems**. I specialize in creating production-grade trading platforms and full-stack web applications.
-
-
-
-
-##  Tech Stack & Expertise
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PineScript](https://img.shields.io/badge/PineScript-2962FF?style=for-the-badge&logo=tradingview&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![EasyLanguage](https://img.shields.io/badge/EasyLanguage-0072C6?style=for-the-badge&logo=tradestation&logoColor=white)](https://www.tradestation.com/insights/easylanguage/)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-###  **Financial Technology Specialization**
-<div align="center">
-
-![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-Expert-FF6B6B?style=for-the-badge&labelColor=2C3E50)
-![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-85%25%20Accuracy-4ECDC4?style=for-the-badge&labelColor=2C3E50)
-![Market Analysis](https://img.shields.io/badge/Market%20Analysis-Real%20Time-45B7D1?style=for-the-badge&labelColor=2C3E50)
-![Risk Management](https://img.shields.io/badge/Risk%20Management-Advanced-96CEB4?style=for-the-badge&labelColor=2C3E50)
-![Portfolio Optimization](https://img.shields.io/badge/Portfolio%20Optimization-Automated-FECA57?style=for-the-badge&labelColor=2C3E50)
-![Financial APIs](https://img.shields.io/badge/Financial%20APIs-Integration-FF9FF3?style=for-the-badge&labelColor=2C3E50)
-
-</div>
-
-###  **Development Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-###  **Current Focus & Learning**
--  **System Design** - Scalable architecture patterns for FAANG interviews
--  **Cloud Platforms** - AWS, Google Cloud Platform, Azure fundamentals
--  **Microservices** - Building distributed systems and APIs
--  **AI Integration** - Machine learning applications in trading systems
--  **Data Structures & Algorithms** - LeetCode preparation for tech interviews
--  **Cybersecurity** - Security best practices in financial applications
-
-
-##  Let's Connect & Build Something Amazing!
-
-<div align="center">
-
-### 🤝 **Ready to innovate together?**
-
-[![Email](https://img.shields.io/badge/📧%20Email-alooharrison7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alooharrison7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge)](https://harrisononyangoaloo.vercel.app/)
-[![Phone](https://img.shields.io/badge/📱%20Phone-%2B254%20769%20719%20322-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254769719322)
-
-</div>
+📍 Nairobi · 🌐 [harrisononyangoaloo.vercel.app](https://harrisononyangoaloo.vercel.app) · ✉️ alooharrison7@gmail.com
 
 ---
 
+## What I work on
+
+**Payments.** M-Pesa Daraja — STK Push, C2B, B2C, callback verification, idempotent
+charges, and reconcilers that sweep transactions stranded when a webhook never
+arrives. Mobile money has no synchronous confirmation; correctness lives in the
+reconciliation, not the request.
+
+**Multi-tenant backends.** Query-level tenant isolation, usage metering, plan
+enforcement as middleware rather than conditionals scattered through route handlers.
+
+**Stack.** Node.js · Express · Python · FastAPI · PostgreSQL · MySQL · Redis · BullMQ ·
+Docker · React · TypeScript
+
+---
+
+## Selected work
+
+### [ENIGMA APEX](https://github.com/Flopchamp/ENIGMA_APEX_PROFESSIONAL_ALGO_TRADER) · Python
+Real-time trading compliance engine. Evaluates proposed trades against the drawdown
+and risk limits of proprietary trading firms and blocks breaches *before* execution.
+Reads live signals via OpenCV and Tesseract OCR where no vendor API exists, with
+Kelly Criterion position sizing across a six-chart dashboard.
+→ [Live demo](https://enigma-apex-professional-algo-trader.onrender.com/)
+
+### [FishCrewConnect](https://github.com/Flopchamp/FishCrewConnect) · Node.js · React Native · MySQL
+Job marketplace and payments platform for Kenya's fishing industry. Three
+applications — mobile app, admin dashboard, Express API — with M-Pesa Daraja
+payments, backend-verified callbacks, automatic commission splitting, and
+relationship-scoped messaging enforced at the API layer.
+→ [Live](https://fish-crew-connect.vercel.app)
+
+### Imara Logic · Node.js · PostgreSQL · Meta WhatsApp Cloud API
+Multi-tenant conversational commerce SaaS, in production with paying customers.
+Contributing engineer on a five-person team; one of two core engineers. I built the
+tenant isolation layer, the usage-based billing engine on M-Pesa, and the operator
+dashboard. *(Private repository — happy to walk through the architecture.)*
+→ [imaralogic.co.ke](https://www.imaralogic.co.ke/)
+
+---
+
+## Writing
+
+I write about backend engineering — API security, database schema design,
+observability, production API design, and M-Pesa integration.
+
+**→ [harrisononyangoaloo.vercel.app/blog](https://harrisononyangoaloo.vercel.app/blog)**
+
+---
+
+## Currently
+
+Open to backend engineering roles — payments, fintech, and platform work.
+Reach me at **alooharrison7@gmail.com** or on
+[LinkedIn](https://www.linkedin.com/in/harrison-aloo-1ba4a73a1).
