@@ -1,6 +1,6 @@
 # Harrison Onyango Aloo
 
-**Backend engineer in Nairobi, Kenya. I build systems that move money.**
+*Backend Software Engineer in Nairobi, Kenya. I build systems that move money.**
 
 M-Pesa payment integrations, billing engines, and multi-tenant backends for African
 businesses — with the callback verification, idempotency and reconciliation that
